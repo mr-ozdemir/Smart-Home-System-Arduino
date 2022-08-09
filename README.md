@@ -15,9 +15,9 @@ It is a system that you can provide security in your home with its general infra
 
 # Hardware integration #
 
-![alt text](https://github.com/mr-ozdemir/Smart-Home-System-Arduino/blob/master/benztim%201.PNG)
-![alt text](https://github.com/mr-ozdemir/Smart-Home-System-Arduino/blob/master/benztim%202.PNG)
-![alt text](https://github.com/mr-ozdemir/Smart-Home-System-Arduino/blob/master/DEVRE%203.png)
+- ![alt text](https://github.com/mr-ozdemir/Smart-Home-System-Arduino/blob/master/benztim%201.PNG)
+- ![alt text](https://github.com/mr-ozdemir/Smart-Home-System-Arduino/blob/master/benztim%202.PNG)
+- ![alt text](https://github.com/mr-ozdemir/Smart-Home-System-Arduino/blob/master/DEVRE%203.png)
 
 # Software Systems #
 
