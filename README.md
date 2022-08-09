@@ -5,6 +5,7 @@ It is a system that you can provide security in your home with its general infra
 # Hardware Systems #
 
 - NODEMCU
+- ESP8266 
 - HC-SR501
 - LM35 Temperature Sensor
 - MQ-2 Gas Sensor
